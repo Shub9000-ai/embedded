@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Lab1_BareMetal_Timer",
+			"path": "../Lab1_BareMetal_Timer"
+		},
+		{
+			"name": "voice",
+			"path": "../voice"
+		},
+		{
+			"name": "SenseGuard AI",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

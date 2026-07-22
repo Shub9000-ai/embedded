@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../../SenseGuardAI/src"
+		},
+		{
+			"name": "SenseGuard AI",
+			"path": "../SenseGuard AI"
+		},
+		{
+			"name": "day 9",
+			"path": "../day 9"
+		},
+		{
+			"name": "day11",
+			"path": "../day11"
+		},
+		{
+			"name": "day11code2",
+			"path": "../day11code2"
+		},
+		{
+			"name": "SimonBLE",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SimonBLE"
+	}
+}
